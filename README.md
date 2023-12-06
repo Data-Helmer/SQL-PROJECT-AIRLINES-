@@ -14,4 +14,5 @@ Airline databse contains data about a flight across Russian airspace within a pa
 - Tickets
 
 # SCHEMA
-Here is the ERD 
+Here is the ERD
+![](GITHUB.PNG)
